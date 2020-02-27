@@ -1,0 +1,13 @@
+package com.jpmc.stock.dao.trade;
+
+import java.util.List;
+
+import com.jpmc.stock.model.trade.Trade;
+
+
+public interface ITradeDao {
+
+	public void addTrade(Trade trade);
+	
+	public List<Trade> getAllTrades();
+}

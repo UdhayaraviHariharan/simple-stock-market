@@ -1,6 +1,10 @@
 Manifest-Version: 1.0
 Built-By: Administrator
 Build-Jdk: 11.0.6
+Class-Path: lib/spring-beans-4.3.7.RELEASE.jar lib/spring-core-4.3.7.REL
+ EASE.jar lib/commons-logging-1.2.jar lib/spring-context-4.3.7.RELEASE.j
+ ar lib/spring-aop-4.3.7.RELEASE.jar lib/spring-expression-4.3.7.RELEASE
+ .jar
 Main-Class: com.jpmc.stock.App
 Created-By: Maven Integration for Eclipse
 
