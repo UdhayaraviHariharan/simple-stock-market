@@ -27,7 +27,6 @@ public class Stock {
 		this.parValue = parValue;
 		
 		
-		this.currentPrice = lastDividend;
 	}
 	
 	public String getStockSymbol() {
